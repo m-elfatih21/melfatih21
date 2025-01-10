@@ -5,3 +5,5 @@
 
 ### Technical hard & soft skills:
 Analytical skills
+
+The background color is `#D0EBEB'
