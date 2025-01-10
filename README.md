@@ -3,5 +3,5 @@
 
 ## Relevant Projects:
 
-### Her skills include:
+### Technical hard & soft skills:
 Analytical skills
