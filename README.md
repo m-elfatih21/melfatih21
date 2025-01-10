@@ -1,5 +1,5 @@
 # Mihrabe El-fatih 
-jumping into the world of tech
+*jumping into the world of tech*
 
 ## Relevant Projects:
 
