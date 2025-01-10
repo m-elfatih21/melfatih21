@@ -6,6 +6,6 @@
 ### Technical hard & soft skills:
 Analytical skills
 
-The background colour is '#D0EBEB'
+- ![#D0EBEB](https://placehold.co/15x15/f03c15/f03c15.png) `#D0EBEB`
 
 This site was built using [GitHub Pages](https://pages.github.com/).
