@@ -3,8 +3,14 @@
 
 ## Relevant Projects:
 
-### Technical hard & soft skills:
-Analytical skills
+
+### 🔑Key hard and soft skills
+- 📊 Analytical skilss
+- 🎨 Leadership and team work skills 
+- ⚙️ Report writing
+- ⏳ Time management and organisational skills
+- 🚀 Reillience and adaptability
+- 🌐 Research skills 
 
 
 This site was built using [GitHub Pages](https://pages.github.com/).
